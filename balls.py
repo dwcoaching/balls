@@ -8,11 +8,11 @@ probabilty = stats['white_balls_on_the_first_step']['white_balls_on_the_second_s
 
 print('TOTAL NUMBER OF TRIES: ' + str(number_of_tries) + '\n')
 print('WHITE BALLS ON THE FIRST STEP: ' + str(stats['white_balls_on_the_first_step']['count']))
-print('   Second step, white balls: : ' + str(stats['white_balls_on_the_first_step']['white_balls_on_the_second_step_count']))
+print('   Second step, white balls: ' + str(stats['white_balls_on_the_first_step']['white_balls_on_the_second_step_count']))
 print('   Second step, black balls: ' + str(stats['white_balls_on_the_first_step']['black_balls_on_the_second_step_count']))
 print()
 print('BLACK BALLS ON THE FIRST STEP: ' + str(stats['black_balls_on_the_first_step']['count']))
-print('   Second step, white balls: : ' + str(stats['black_balls_on_the_first_step']['white_balls_on_the_second_step_count']))
+print('   Second step, white balls: ' + str(stats['black_balls_on_the_first_step']['white_balls_on_the_second_step_count']))
 print('   Second step, black balls: ' + str(stats['black_balls_on_the_first_step']['black_balls_on_the_second_step_count']))
 print()
 print('PROBABILITY: ' + str(probabilty))
