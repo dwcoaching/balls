@@ -1,5 +1,5 @@
 # balls
-Решение задачы про шары https://thecode.media/balls-possibly/ методом Монте-Карло.
+Решение задачи про шары https://thecode.media/balls-possibly/ методом Монте-Карло.
 
 # Использование
 Запускаем:
@@ -18,11 +18,11 @@ python3 balls.py 10000
 TOTAL NUMBER OF TRIES: 100000
 
 WHITE BALLS ON THE FIRST STEP: 74847
-   Second step, white balls: : 49765
+   Second step, white balls: 49765
    Second step, black balls: 25082
 
 BLACK BALLS ON THE FIRST STEP: 25153
-   Second step, white balls: : 25153
+   Second step, white balls: 25153
    Second step, black balls: 0
 
 PROBABILITY: 0.6648897083383436
